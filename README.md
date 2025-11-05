@@ -11,6 +11,11 @@
 
 <img align="right" src="https://github.com/YourUsername/YourRepo/blob/main/theme.gif?raw=true" width="350" />
 
+Enthusiastic Computer Science fresher skilled in **MS Excel**, **SQL**, **Python**, and **Power BI**. Seeking an entry-level **Data Analyst** role to apply analytical and visualization abilities in transforming data into meaningful insights that drive informed business decisions.
+
+
+
+
 Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and Power BI Looking for an entry-level Data Analyst position to leverage analytical and Visualization abilities in transforming data into meaningful insights that support business decisions
 
 
@@ -25,14 +30,9 @@ Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and P
 
 <h2 align="left">💼 Skills</h2>
 
-<div align="Left">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-<img src="https://raw.githubusercontent.com/EliyasN/ELIYAS-N/3085a5d7e08bc3a3be1d5fb6e38ff32db25aa6cf/MySQL.gif" width="100">
 
 
-
-
-<p align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
+<p align="left" style="background-color:#0d1117; padding:20px; border-radius:15px;">
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
