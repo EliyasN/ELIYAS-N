@@ -1,5 +1,5 @@
 # 📊 ELIYAS N | DATA ANALYTICS
 
-<img align="right" src="[https://your-image-link.gif](https://lottie.host/embed/5f7648d8-cf77-442b-9b90-113364a4cd02/xKghk6tCyD.lottie)" width="350" />
+<img align="right" src=https://raw.githubusercontent.com/EliyasN/ELIYAS-N/17609337ad565d2af34fb63133219604660266bf/Data_Analytics_Theme.gif width="350" />
 
-https://lottie.host/embed/5f7648d8-cf77-442b-9b90-113364a4cd02/xKghk6tCyD.lottie
+
