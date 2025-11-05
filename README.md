@@ -14,15 +14,6 @@
 Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and Power BI Looking for an entry-level Data Analyst position to leverage analytical and Visualization abilities in transforming data into meaningful insights that support business decisions
 
 
-
-## 🧠 Skills  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=0078D4&center=true&vCenter=true&width=500&lines=MS+Excel;Power+BI;SQL;Python;Data+Visualization;Data+Modeling" alt="Typing SVG" />
-</p>
-
-
-
 ### 🧠 Core Strengths  
 - 📊 **Data Analysis & Reporting:** Cleaning, transforming, and visualizing datasets using Power BI, Excel, and Python  
 - 💾 **Database Management:** Writing and optimizing SQL queries for insights and performance  
@@ -58,13 +49,13 @@ Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and P
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=700&color=00E7FF&center=true&vCenter=true&width=600&lines=MS+Excel+📊;Power+BI+📈;MySQL+🐘;Python+🐍;Data+Visualization+🎨;Data+Modeling+🧩;ETL+Automation+⚙️" 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=700&color=00E7FF&center=true&vCenter=true&width=600&lines=MS+Excel+📊;Power+BI+📈;MySQL+🐬;Python+🐍" 
     alt="Typing Skills Animation" 
   />
 </p>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=700&lines=MS+Excel+📊;Power+BI+📈;MySQL+🐘;Python+🐍;Data+Visualization+🎨;Data+Modeling+🧩;ETL+Automation+⚙️" 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=700&lines=MS+Excel+📊;Power+BI+📈;MySQL+🐬;Python+🐍
     alt="Typing Skills Animation" 
   />
 </p>
