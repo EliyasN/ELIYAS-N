@@ -27,7 +27,7 @@ Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and P
 
 <div align="Left">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-<img src="https://raw.githubusercontent.com/EliyasN/ELIYAS-N/3085a5d7e08bc3a3be1d5fb6e38ff32db25aa6cf/MySQL.gif" width="50">
+<img src="https://raw.githubusercontent.com/EliyasN/ELIYAS-N/3085a5d7e08bc3a3be1d5fb6e38ff32db25aa6cf/MySQL.gif" width="100">
 
 
 
