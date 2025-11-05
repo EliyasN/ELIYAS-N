@@ -40,24 +40,9 @@ Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and P
   />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-<p align="left">
-  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <image href="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" 
-           width="80" 
-           height="80" 
-           x="10" 
-           y="10">
-      <animateTransform 
-        attributeName="transform"
-        type="translate"
-        values="0,0; 0,-10; 0,0"
-        dur="3s"
-        repeatCount="indefinite"
-      />
-    </image>
-  </svg>
-</p>
 
 
 
